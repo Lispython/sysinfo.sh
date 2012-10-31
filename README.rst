@@ -18,7 +18,7 @@ Simple way to get all information about system in json
 INSTALLATION
 ------------
 
-To use sysinfo.sh you need download `sysinfo.sh <filehttps://raw.github.com/Lispython/commandor/master/.travis.yml>`_ and run its via bash/sh::
+To use sysinfo.sh you need download `sysinfo.sh <https://raw.github.com/Lispython/sysinfo.sh/master/sysinfo.sh>`_ and run its via bash/sh::
 
 
     curl https://raw.github.com/Lispython/ssinfo.sh/master/sysinfo.sh | sh
