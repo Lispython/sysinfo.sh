@@ -12,4 +12,4 @@ install:
     - pip install nose
 
 script:
-    - make travis
+    - ./test.sh
