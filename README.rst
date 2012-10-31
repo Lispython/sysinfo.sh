@@ -21,7 +21,7 @@ INSTALLATION
 To use sysinfo.sh you need download `sysinfo.sh <https://raw.github.com/Lispython/sysinfo.sh/master/sysinfo.sh>`_ and run its via bash/sh::
 
 
-    curl https://raw.github.com/Lispython/sysinfo.sh/master/sysinfo.sh | sh
+    curl https://raw.github.com/Lispython/sysinfo.sh/master/sysinfo.sh | bash
 
     {
         "hostname": "work",
